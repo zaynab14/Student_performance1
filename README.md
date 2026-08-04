@@ -215,9 +215,9 @@ Student-Performance-Prediction/
 
 └── charts/
 
-&#x20;   ├── pass\_fail\_distribution.png
+   ├── pass\_fail\_distribution.png
 
-&#x20;   └── confusion\_matrix.png
+   └── confusion\_matrix.png
 
 ```
 
