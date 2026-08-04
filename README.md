@@ -259,5 +259,5 @@ Through this project, I learned how to:
 
 
 
-The Logistic Regression model successfully predicted whether students would pass or fail based on their attendance and academic scores. The model achieved an accuracy of \*\*83.33%\*\*, demonstrating the complete workflow of a basic Machine Learning classification problem.
+The Logistic Regression model successfully predicted whether students would pass or fail based on their attendance and academic scores. The model achieved an accuracy of **83.33%**, demonstrating the complete workflow of a basic Machine Learning classification problem.
 
