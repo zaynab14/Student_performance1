@@ -10,7 +10,7 @@ This project was completed as part of the **HisabDo AI/ML Internship – Day 4 T
 
 
 
-The objective is to build a Machine Learning classification model that predicts whether a student will \*\*Pass\*\* or \*\*Fail\*\* based on their academic performance and attendance.
+The objective is to build a Machine Learning classification model that predicts whether a student will **Pass** or **Fail** based on their academic performance and attendance.
 
 
 
