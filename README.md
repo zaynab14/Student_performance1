@@ -48,9 +48,9 @@ A new target column was created:
 
 
 
-- \*\*Pass = 1\*\*
+- **Pass = 1**
 
-- \*\*Fail = 0\*\*
+- **Fail = 0**
 
 
 
@@ -171,7 +171,7 @@ The model was evaluated using:
 
 
 
-*\*Accuracy: 83.33%\*\*
+**Accuracy: 83.33%**
 
 
 
