@@ -1,8 +1,8 @@
-\# Student Performance Prediction using Logistic Regression
+# Student Performance Prediction using Logistic Regression
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,11 +14,11 @@ The objective is to build a Machine Learning classification model that predicts 
 
 
 
-\---
+---
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -26,21 +26,21 @@ The dataset contains student academic records with the following features:
 
 
 
-\- Student Name
+- Student Name
 
-\- Age
+- Age
 
-\- Gender
+- Gender
 
-\- Course
+- Course
 
-\- Attendance
+- Attendance
 
-\- Assignment Score
+- Assignment Score
 
-\- Midterm Score
+- Midterm Score
 
-\- Final Score
+- Final Score
 
 
 
@@ -48,37 +48,37 @@ A new target column was created:
 
 
 
-\- \*\*Pass = 1\*\*
+- \*\*Pass = 1\*\*
 
-\- \*\*Fail = 0\*\*
-
-
-
-\---
+- \*\*Fail = 0\*\*
 
 
 
-\## Technologies Used
+---
 
 
 
-\- Python
-
-\- Pandas
-
-\- Matplotlib
-
-\- Scikit-learn
-
-\- Google Colab
+## Technologies Used
 
 
 
-\---
+- Python
+
+- Pandas
+
+- Matplotlib
+
+- Scikit-learn
+
+- Google Colab
 
 
 
-\## Data Preprocessing
+---
+
+
+
+## Data Preprocessing
 
 
 
@@ -86,25 +86,25 @@ The following preprocessing steps were performed:
 
 
 
-\- Loaded the dataset using Pandas
+- Loaded the dataset using Pandas
 
-\- Checked dataset information
+- Checked dataset information
 
-\- Handled missing values
+- Handled missing values
 
-\- Removed duplicate records
+- Removed duplicate records
 
-\- Corrected invalid attendance values
+- Corrected invalid attendance values
 
-\- Created the target variable (Pass/Fail)
-
-
-
-\---
+- Created the target variable (Pass/Fail)
 
 
 
-\## Features Used
+---
+
+
+
+## Features Used
 
 
 
@@ -112,21 +112,21 @@ The following features were used to train the model:
 
 
 
-\- Attendance
+- Attendance
 
-\- Assignment Score
+- Assignment Score
 
-\- Midterm Score
+- Midterm Score
 
-\- Final Score
-
-
-
-\---
+- Final Score
 
 
 
-\## Machine Learning Model
+---
+
+
+
+## Machine Learning Model
 
 
 
@@ -134,7 +134,7 @@ The classification model used in this project is:
 
 
 
-\*\*Logistic Regression\*\*
+*\*Logistic Regression\*\*
 
 
 
@@ -142,17 +142,16 @@ The dataset was divided into:
 
 
 
-\- 80% Training Data
+- 80% Training Data
 
-\- 20% Testing Data
-
-
-
-\---
+- 20% Testing Data
 
 
 
-\## Model Evaluation
+---
+
+
+## Model Evaluation
 
 
 
@@ -160,27 +159,27 @@ The model was evaluated using:
 
 
 
-\- Accuracy Score
+- Accuracy Score
 
-\- Confusion Matrix
+- Confusion Matrix
 
-\- Classification Report
-
-
-
-\### Model Accuracy
+- Classification Report
 
 
 
-\*\*Accuracy: 83.33%\*\*
+### Model Accuracy
 
 
 
-\---
+*\*Accuracy: 83.33%\*\*
 
 
 
-\## Visualizations
+---
+
+
+
+## Visualizations
 
 
 
@@ -188,17 +187,17 @@ The project includes the following visualizations:
 
 
 
-\- Pass vs Fail Distribution
+- Pass vs Fail Distribution
 
-\- Confusion Matrix
-
-
-
-\---
+- Confusion Matrix
 
 
 
-\## Project Structure
+---
+
+
+
+## Project Structure
 
 
 
@@ -224,11 +223,11 @@ Student-Performance-Prediction/
 
 
 
-\---
+---
 
 
 
-\## What I Learned
+## What I Learned
 
 
 
@@ -236,27 +235,27 @@ Through this project, I learned how to:
 
 
 
-\- Load and preprocess datasets using Pandas.
+- Load and preprocess datasets using Pandas.
 
-\- Create a target variable for classification.
+- Create a target variable for classification.
 
-\- Split data into training and testing sets.
+- Split data into training and testing sets.
 
-\- Train a Logistic Regression model using Scikit-learn.
+- Train a Logistic Regression model using Scikit-learn.
 
-\- Make predictions on unseen data.
+- Make predictions on unseen data.
 
-\- Evaluate model performance using Accuracy, Confusion Matrix, and Classification Report.
+- Evaluate model performance using Accuracy, Confusion Matrix, and Classification Report.
 
-\- Visualize model results using Matplotlib.
-
-
-
-\---
+- Visualize model results using Matplotlib.
 
 
 
-\## Conclusion
+---
+
+
+
+## Conclusion
 
 
 
