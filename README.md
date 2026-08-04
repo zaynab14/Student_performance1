@@ -134,7 +134,7 @@ The classification model used in this project is:
 
 
 
-*\*Logistic Regression\*\*
+**Logistic Regression**
 
 
 
