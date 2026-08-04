@@ -6,7 +6,7 @@
 
 
 
-This project was completed as part of the \*\*HisabDo AI/ML Internship – Day 4 Task\*\*.
+This project was completed as part of the **HisabDo AI/ML Internship – Day 4 Task**.
 
 
 
